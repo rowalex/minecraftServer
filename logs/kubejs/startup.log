@@ -1,0 +1,22 @@
+[02:46:31] [INIT] KubeJS 2101.7.0-build.171; MC 2101 NeoForge
+[02:46:31] [INIT] Loaded plugins:
+[02:46:31] [INIT] - dev.latvian.mods.kubejs.BuiltinKubeJSPlugin
+[02:46:31] [INIT] - dev.latvian.mods.kubejs.integration.architectury.ArchitecturyIntegration
+[02:46:31] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[02:46:31] [INIT] - com.sunekaer.sdrp.neoforge.kubejs.SDRPKubeJSIntegration
+[02:46:31] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbquests.kubejs.FTBQuestsKubeJSPlugin
+[02:46:31] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[02:46:31] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[02:46:31] [INIT] - dev.ftb.mods.ftbxmodcompat.neoforge.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[02:46:31] [INIT] - dev.latvian.mods.kubejs.mekanism.MekanismKubeJSPlugin
+[02:46:31] [INIT] - aztech.modern_industrialization.compat.kubejs.MIKubeJSPlugin
+[02:46:31] [INIT] - dev.thestaticvoid.mi_sound_addon.compat.kubejs.MISoundAddonKubeJSPlugin
+[02:46:32] [INFO] Loaded script startup_scripts:blocks.js in 0.048 s
+[02:46:32] [INFO] Loaded script startup_scripts:Custom/Chems.js in 0.0 s
+[02:46:32] [INFO] Loaded script startup_scripts:Custom/Compressed.js in 0.008 s
+[02:46:32] [INFO] Loaded script startup_scripts:Custom/CreativeTabs.js in 0.002 s
+[02:46:32] [INFO] Loaded script startup_scripts:Custom/Fluids.js in 0.0 s
+[02:46:32] [INFO] Loaded script startup_scripts:Custom/Items.js in 0.0 s
+[02:46:32] [INFO] Loaded script startup_scripts:Custom/MiscMI.js in 0.001 s
+[02:46:32] [INFO] Loaded script startup_scripts:Fixes.js in 0.0 s
+[02:46:32] [INFO] Loaded 8/8 KubeJS startup scripts in 0.763 s with 0 errors and 0 warnings

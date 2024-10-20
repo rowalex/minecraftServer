@@ -1,0 +1,213 @@
+[02:46:33.717] [INFO]: Loading config 'startup.json'.
+[02:46:39.632] [INFO]: Loaded plugins: almostunified:common, almostunified:neoforge
+[02:46:44.360] [WARN]: Reload detected. Reconstructing runtime.
+[02:46:44.361] [INFO]: Loading config 'debug.json'.
+[02:46:44.362] [INFO]: Loading config 'placeholders.json'.
+[02:46:44.364] [INFO]: Loading config 'tags.json'.
+[02:46:44.390] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:seeds/eggplant' -> [dumplings_delight:eggplant_seeds]
+[02:46:44.390] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:seeds/rice' -> [sushigocrafting:rice_seeds]
+[02:46:44.398] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/bronze' -> [mekanism:ingot_bronze]
+[02:46:44.398] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/iridium' -> [moremekanismprocessing:iridium_ingot]
+[02:46:44.398] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/titanium' -> [moremekanismprocessing:dust_titanium]
+[02:46:44.398] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/platinum' -> [moremekanismprocessing:platinum_nugget]
+[02:46:44.399] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:plastics' -> [industrialforegoing:plastic]
+[02:46:44.399] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:dusts/diamond' -> [appflux:diamond_dust, mekanism:dust_diamond]
+[02:46:44.399] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:seeds/cabbage' -> [dumplings_delight:chinese_cabbage_seeds, croptopia:cabbage_seed]
+[02:46:44.399] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:raw_materials/tin' -> [mekanism:raw_tin]
+[02:46:44.399] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/aluminum' -> [moremekanismprocessing:aluminum_ingot]
+[02:46:44.400] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/salt' -> [mekanism:salt]
+[02:46:44.400] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:dusts/gold' -> [mekanism:dust_gold, occultism:gold_dust]
+[02:46:44.400] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/netherite' -> [extended_industrialization:netherite_dust]
+[02:46:44.400] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/raw_silver' -> [occultism:raw_silver_block]
+[02:46:44.400] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/lead' -> [mekanism:block_lead]
+[02:46:44.400] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:nuggets/silver' -> [moremekanismprocessing:silver_nugget, occultism:silver_nugget]
+[02:46:44.401] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/tungsten' -> [moremekanismprocessing:tungsten_nugget]
+[02:46:44.401] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:raw_materials/uranium' -> [mekanism:raw_uranium]
+[02:46:44.401] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/uranium' -> [mekanism:ingot_uranium]
+[02:46:44.401] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/steel' -> [mekanism:dust_steel]
+[02:46:44.402] [INFO]: [AutoHiding] Hiding 2/4 items for tag '#c:ores/tin' -> [mekanism:tin_ore, mekanism:deepslate_tin_ore]
+[02:46:44.402] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:raw_materials/silver' -> [occultism:raw_silver]
+[02:46:44.402] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/bronze' -> [mekanism:dust_bronze]
+[02:46:44.402] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:foods/calamari' -> [dumplings_delight:calamari]
+[02:46:44.403] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/steel' -> [mekanism:nugget_steel]
+[02:46:44.404] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:crops/onion' -> [croptopia:onion]
+[02:46:44.404] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:crops/garlic' -> [dumplings_delight:garlic]
+[02:46:44.404] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:dusts/silver' -> [moremekanismprocessing:dust_silver, occultism:silver_dust]
+[02:46:44.404] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:ingots/steel' -> [mekanism:ingot_steel, mffs:steel_ingot]
+[02:46:44.405] [INFO]: [AutoHiding] Hiding 2/4 items for tag '#c:ores/uranium' -> [mekanism:deepslate_uranium_ore, mekanism:uranium_ore]
+[02:46:44.405] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/tungsten' -> [moremekanismprocessing:tungsten_ingot]
+[02:46:44.405] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/nickel' -> [moremekanismprocessing:nickel_nugget]
+[02:46:44.405] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/uranium' -> [mekanism:nugget_uranium]
+[02:46:44.405] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/sulfur' -> [mekanism:dust_sulfur]
+[02:46:44.405] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:seeds/tomato' -> [croptopia:tomato_seed]
+[02:46:44.406] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/nickel' -> [moremekanismprocessing:nickel_ingot]
+[02:46:44.406] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:dusts/iron' -> [mekanism:dust_iron, occultism:iron_dust]
+[02:46:44.406] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/lead' -> [mekanism:nugget_lead]
+[02:46:44.406] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/steel' -> [mekanism:block_steel]
+[02:46:44.406] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/silver' -> [occultism:silver_block]
+[02:46:44.407] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/lapis' -> [mekanism:dust_lapis_lazuli]
+[02:46:44.407] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/titanium' -> [moremekanismprocessing:titanium_nugget]
+[02:46:44.407] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/bronze' -> [mekanism:block_bronze]
+[02:46:44.407] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:foods/cooked_bacon' -> [croptopia:cooked_bacon]
+[02:46:44.408] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:crops/tomato' -> [croptopia:tomato]
+[02:46:44.408] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/uranium' -> [mekanism:block_uranium]
+[02:46:44.408] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/raw_lead' -> [mekanism:block_raw_lead]
+[02:46:44.408] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/aluminum' -> [moremekanismprocessing:aluminum_nugget]
+[02:46:44.408] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/tin' -> [mekanism:ingot_tin]
+[02:46:44.409] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/iridium' -> [moremekanismprocessing:dust_iridium]
+[02:46:44.409] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:raw_materials/lead' -> [mekanism:raw_lead]
+[02:46:44.409] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/tin' -> [mekanism:nugget_tin]
+[02:46:44.409] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:crops/eggplant' -> [dumplings_delight:eggplant]
+[02:46:44.409] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/tin' -> [mekanism:dust_tin]
+[02:46:44.410] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/titanium' -> [moremekanismprocessing:titanium_ingot]
+[02:46:44.410] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:ingots/silver' -> [moremekanismprocessing:silver_ingot, occultism:silver_ingot]
+[02:46:44.410] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/copper' -> [pneumaticcraft:copper_nugget]
+[02:46:44.410] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/tungsten' -> [moremekanismprocessing:dust_tungsten]
+[02:46:44.410] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/nickel' -> [moremekanismprocessing:dust_nickel]
+[02:46:44.411] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/lead' -> [mekanism:ingot_lead]
+[02:46:44.411] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/obsidian' -> [occultism:obsidian_dust]
+[02:46:44.411] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/lead' -> [mekanism:dust_lead]
+[02:46:44.411] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/bronze' -> [mekanism:nugget_bronze]
+[02:46:44.411] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:dusts/emerald' -> [mekanism:dust_emerald, appflux:emerald_dust]
+[02:46:44.412] [INFO]: [AutoHiding] Hiding 3/4 items for tag '#c:crops/cabbage' -> [dumplings_delight:chinese_cabbage_leaf, croptopia:cabbage, dumplings_delight:chinese_cabbage]
+[02:46:44.412] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/raw_uranium' -> [mekanism:block_raw_uranium]
+[02:46:44.412] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/raw_tin' -> [mekanism:block_raw_tin]
+[02:46:44.412] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/aluminum' -> [moremekanismprocessing:dust_aluminum]
+[02:46:44.412] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:dusts/copper' -> [mekanism:dust_copper, occultism:copper_dust]
+[02:46:44.413] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/uranium' -> [mekanism:dust_uranium]
+[02:46:44.413] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:crops/green_onion' -> [dumplings_delight:greenonion]
+[02:46:44.413] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/ruby' -> [moremekanismprocessing:dust_ruby]
+[02:46:44.413] [INFO]: [AutoHiding] Hiding 2/4 items for tag '#c:ores/lead' -> [mekanism:lead_ore, mekanism:deepslate_lead_ore]
+[02:46:44.413] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/iridium' -> [moremekanismprocessing:iridium_nugget]
+[02:46:44.414] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:crops/rice' -> [croptopia:rice, sushigocrafting:rice]
+[02:46:44.414] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/tin' -> [mekanism:block_tin]
+[02:46:44.414] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:foods/raw_bacon' -> [croptopia:bacon]
+[02:46:44.414] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/platinum' -> [moremekanismprocessing:platinum_ingot]
+[02:46:44.414] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/platinum' -> [moremekanismprocessing:dust_platinum]
+[02:46:44.449] [INFO]: Loading config 'duplicates.json'.
+[02:46:44.451] [INFO]: Recipe count: 23502
+[02:46:46.926] [INFO]: Recipe count afterwards: 23403 (done in 2.474 s)
+[02:46:46.929] [INFO]: Loot table 'dumplings_delight:chests/ed_simple_dungeon' was unified by: materials
+[02:46:46.930] [INFO]: Loot table 'croptopia:blocks/onion_crop' was unified by: materials
+[02:46:46.931] [INFO]: Loot table 'dumplings_delight:chests/ed_shipwreck_supply' was unified by: materials
+[02:46:46.932] [INFO]: Loot table 'occultism:blocks/silver_block' was unified by: materials
+[02:46:46.933] [INFO]: Loot table 'mekanism:blocks/block_tin' was unified by: materials
+[02:46:46.934] [INFO]: Loot table 'croptopia:blocks/cabbage_crop' was unified by: materials
+[02:46:46.934] [INFO]: Loot table 'dumplings_delight:chests/ed_village_desert_house' was unified by: materials
+[02:46:46.935] [INFO]: Loot table 'dumplings_delight:chests/ed_village_snowy_house' was unified by: materials
+[02:46:46.935] [INFO]: Loot table 'occultism:blocks/silver_ore_deepslate' was unified by: materials
+[02:46:46.936] [INFO]: Loot table 'mekanism:blocks/block_raw_lead' was unified by: materials
+[02:46:46.936] [INFO]: Loot table 'dumplings_delight:chests/ed_village_savanna_house' was unified by: materials
+[02:46:46.936] [INFO]: Loot table 'dumplings_delight:blocks/greenonion' was unified by: materials
+[02:46:46.937] [INFO]: Loot table 'dumplings_delight:blocks/garlic' was unified by: materials
+[02:46:46.938] [INFO]: Loot table 'mekanism:blocks/block_bronze' was unified by: materials
+[02:46:46.938] [INFO]: Loot table 'mekanism:blocks/deepslate_uranium_ore' was unified by: materials
+[02:46:46.939] [INFO]: Loot table 'mekanism:blocks/lead_ore' was unified by: materials
+[02:46:46.939] [INFO]: Loot table 'mekanism:blocks/block_lead' was unified by: materials
+[02:46:46.940] [INFO]: Loot table 'mekanism:blocks/block_raw_uranium' was unified by: materials
+[02:46:46.940] [INFO]: Loot table 'mekanism:blocks/block_raw_tin' was unified by: materials
+[02:46:46.940] [INFO]: Loot table 'sushigocrafting:blocks/rice_crop' was unified by: materials
+[02:46:46.941] [INFO]: Loot table 'mekanism:blocks/block_uranium' was unified by: materials
+[02:46:46.942] [INFO]: Loot table 'dumplings_delight:blocks/eggplant' was unified by: materials
+[02:46:46.943] [INFO]: Loot table 'dumplings_delight:blocks/chinese_cabbages' was unified by: materials
+[02:46:46.943] [INFO]: Loot table 'dumplings_delight:chests/ed_village_plains_house' was unified by: materials
+[02:46:46.944] [INFO]: Loot table 'croptopia:blocks/rice_crop' was unified by: materials
+[02:46:46.946] [INFO]: Loot table 'mekanism:blocks/block_salt' was unified by: materials
+[02:46:46.947] [INFO]: Loot table 'mekanism:blocks/uranium_ore' was unified by: materials
+[02:46:46.947] [INFO]: Loot table 'dumplings_delight:chests/ed_village_taiga_house' was unified by: materials
+[02:46:46.948] [INFO]: Loot table 'croptopia:blocks/tomato_crop' was unified by: materials
+[02:46:46.948] [INFO]: Loot table 'mekanism:blocks/deepslate_tin_ore' was unified by: materials
+[02:46:46.948] [INFO]: Loot table 'occultism:blocks/silver_ore' was unified by: materials
+[02:46:46.949] [INFO]: Loot table 'mekanism:blocks/tin_ore' was unified by: materials
+[02:46:46.950] [INFO]: Loot table 'mekanism:blocks/block_steel' was unified by: materials
+[02:46:46.951] [INFO]: Loot table 'occultism:blocks/raw_silver_block' was unified by: materials
+[02:46:46.951] [INFO]: Loot table 'dumplings_delight:chests/ed_pillager_outpost' was unified by: materials
+[02:46:46.951] [INFO]: Loot table 'dumplings_delight:chests/ed_abandoned_mineshaft' was unified by: materials
+[02:46:46.952] [INFO]: Loot table 'mekanism:blocks/deepslate_lead_ore' was unified by: materials
+[02:47:16.608] [WARN]: Reload detected. Reconstructing runtime.
+[02:47:16.608] [INFO]: Loading config 'debug.json'.
+[02:47:16.608] [INFO]: Loading config 'placeholders.json'.
+[02:47:16.609] [INFO]: Loading config 'tags.json'.
+[02:47:16.611] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:seeds/eggplant' -> [dumplings_delight:eggplant_seeds]
+[02:47:16.612] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:seeds/rice' -> [sushigocrafting:rice_seeds]
+[02:47:16.612] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/bronze' -> [mekanism:ingot_bronze]
+[02:47:16.612] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/iridium' -> [moremekanismprocessing:iridium_ingot]
+[02:47:16.612] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/titanium' -> [moremekanismprocessing:dust_titanium]
+[02:47:16.613] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/platinum' -> [moremekanismprocessing:platinum_nugget]
+[02:47:16.613] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:plastics' -> [industrialforegoing:plastic]
+[02:47:16.613] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:dusts/diamond' -> [appflux:diamond_dust, mekanism:dust_diamond]
+[02:47:16.613] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:seeds/cabbage' -> [dumplings_delight:chinese_cabbage_seeds, croptopia:cabbage_seed]
+[02:47:16.614] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:raw_materials/tin' -> [mekanism:raw_tin]
+[02:47:16.614] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/aluminum' -> [moremekanismprocessing:aluminum_ingot]
+[02:47:16.614] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/salt' -> [mekanism:salt]
+[02:47:16.614] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:dusts/gold' -> [mekanism:dust_gold, occultism:gold_dust]
+[02:47:16.614] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/netherite' -> [extended_industrialization:netherite_dust]
+[02:47:16.614] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/raw_silver' -> [occultism:raw_silver_block]
+[02:47:16.615] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/lead' -> [mekanism:block_lead]
+[02:47:16.615] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:nuggets/silver' -> [moremekanismprocessing:silver_nugget, occultism:silver_nugget]
+[02:47:16.615] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/tungsten' -> [moremekanismprocessing:tungsten_nugget]
+[02:47:16.615] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:raw_materials/uranium' -> [mekanism:raw_uranium]
+[02:47:16.615] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/uranium' -> [mekanism:ingot_uranium]
+[02:47:16.616] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/steel' -> [mekanism:dust_steel]
+[02:47:16.616] [INFO]: [AutoHiding] Hiding 2/4 items for tag '#c:ores/tin' -> [mekanism:tin_ore, mekanism:deepslate_tin_ore]
+[02:47:16.616] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:raw_materials/silver' -> [occultism:raw_silver]
+[02:47:16.616] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/bronze' -> [mekanism:dust_bronze]
+[02:47:16.616] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:foods/calamari' -> [dumplings_delight:calamari]
+[02:47:16.617] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/steel' -> [mekanism:nugget_steel]
+[02:47:16.617] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:crops/onion' -> [croptopia:onion]
+[02:47:16.617] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:crops/garlic' -> [dumplings_delight:garlic]
+[02:47:16.617] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:dusts/silver' -> [moremekanismprocessing:dust_silver, occultism:silver_dust]
+[02:47:16.617] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:ingots/steel' -> [mekanism:ingot_steel, mffs:steel_ingot]
+[02:47:16.617] [INFO]: [AutoHiding] Hiding 2/4 items for tag '#c:ores/uranium' -> [mekanism:deepslate_uranium_ore, mekanism:uranium_ore]
+[02:47:16.617] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/tungsten' -> [moremekanismprocessing:tungsten_ingot]
+[02:47:16.617] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/nickel' -> [moremekanismprocessing:nickel_nugget]
+[02:47:16.618] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/uranium' -> [mekanism:nugget_uranium]
+[02:47:16.618] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/sulfur' -> [mekanism:dust_sulfur]
+[02:47:16.618] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:seeds/tomato' -> [croptopia:tomato_seed]
+[02:47:16.618] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/nickel' -> [moremekanismprocessing:nickel_ingot]
+[02:47:16.619] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:dusts/iron' -> [mekanism:dust_iron, occultism:iron_dust]
+[02:47:16.619] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/lead' -> [mekanism:nugget_lead]
+[02:47:16.619] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/steel' -> [mekanism:block_steel]
+[02:47:16.619] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/silver' -> [occultism:silver_block]
+[02:47:16.619] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/lapis' -> [mekanism:dust_lapis_lazuli]
+[02:47:16.620] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/titanium' -> [moremekanismprocessing:titanium_nugget]
+[02:47:16.620] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/bronze' -> [mekanism:block_bronze]
+[02:47:16.620] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:foods/cooked_bacon' -> [croptopia:cooked_bacon]
+[02:47:16.620] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:crops/tomato' -> [croptopia:tomato]
+[02:47:16.620] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/uranium' -> [mekanism:block_uranium]
+[02:47:16.620] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/raw_lead' -> [mekanism:block_raw_lead]
+[02:47:16.620] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/aluminum' -> [moremekanismprocessing:aluminum_nugget]
+[02:47:16.620] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/tin' -> [mekanism:ingot_tin]
+[02:47:16.621] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/iridium' -> [moremekanismprocessing:dust_iridium]
+[02:47:16.622] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:raw_materials/lead' -> [mekanism:raw_lead]
+[02:47:16.622] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/tin' -> [mekanism:nugget_tin]
+[02:47:16.622] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:crops/eggplant' -> [dumplings_delight:eggplant]
+[02:47:16.622] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/tin' -> [mekanism:dust_tin]
+[02:47:16.623] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/titanium' -> [moremekanismprocessing:titanium_ingot]
+[02:47:16.623] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:ingots/silver' -> [moremekanismprocessing:silver_ingot, occultism:silver_ingot]
+[02:47:16.623] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/copper' -> [pneumaticcraft:copper_nugget]
+[02:47:16.623] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/tungsten' -> [moremekanismprocessing:dust_tungsten]
+[02:47:16.623] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/nickel' -> [moremekanismprocessing:dust_nickel]
+[02:47:16.624] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/lead' -> [mekanism:ingot_lead]
+[02:47:16.624] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/obsidian' -> [occultism:obsidian_dust]
+[02:47:16.624] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/lead' -> [mekanism:dust_lead]
+[02:47:16.624] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/bronze' -> [mekanism:nugget_bronze]
+[02:47:16.624] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:dusts/emerald' -> [mekanism:dust_emerald, appflux:emerald_dust]
+[02:47:16.625] [INFO]: [AutoHiding] Hiding 3/4 items for tag '#c:crops/cabbage' -> [dumplings_delight:chinese_cabbage_leaf, croptopia:cabbage, dumplings_delight:chinese_cabbage]
+[02:47:16.625] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/raw_uranium' -> [mekanism:block_raw_uranium]
+[02:47:16.625] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/raw_tin' -> [mekanism:block_raw_tin]
+[02:47:16.625] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/aluminum' -> [moremekanismprocessing:dust_aluminum]
+[02:47:16.625] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:dusts/copper' -> [mekanism:dust_copper, occultism:copper_dust]
+[02:47:16.625] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/uranium' -> [mekanism:dust_uranium]
+[02:47:16.626] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:crops/green_onion' -> [dumplings_delight:greenonion]
+[02:47:16.626] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/ruby' -> [moremekanismprocessing:dust_ruby]
+[02:47:16.626] [INFO]: [AutoHiding] Hiding 2/4 items for tag '#c:ores/lead' -> [mekanism:lead_ore, mekanism:deepslate_lead_ore]
+[02:47:16.626] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:nuggets/iridium' -> [moremekanismprocessing:iridium_nugget]
+[02:47:16.626] [INFO]: [AutoHiding] Hiding 2/3 items for tag '#c:crops/rice' -> [croptopia:rice, sushigocrafting:rice]
+[02:47:16.626] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:storage_blocks/tin' -> [mekanism:block_tin]
+[02:47:16.627] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:foods/raw_bacon' -> [croptopia:bacon]
+[02:47:16.627] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:ingots/platinum' -> [moremekanismprocessing:platinum_ingot]
+[02:47:16.627] [INFO]: [AutoHiding] Hiding 1/2 items for tag '#c:dusts/platinum' -> [moremekanismprocessing:dust_platinum]
+[02:47:16.658] [INFO]: Loading config 'duplicates.json'.
+[02:47:16.659] [INFO]: Recipe count: 23502
+[02:47:18.902] [INFO]: Recipe count afterwards: 23403 (done in 2.244 s)
